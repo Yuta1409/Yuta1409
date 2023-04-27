@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 c'est Yan 💬</h1>
+<h1 align="center">Hi, 👋 moi c'est Yan 💬</h1>
 <h3 align="center">Etudiant en développement back-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuta1409&label=Profile%20views&color=0e75b6&style=flat" alt="yuta1409" /> </p>
