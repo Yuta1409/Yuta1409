@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 moi c'est Yan 💬</h1>
+<h1 align="center">Hello, moi c'est Yan 💬</h1>
 <h3 align="center">Etudiant en développement back-end</h3>
 
 
